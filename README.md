@@ -1,6 +1,6 @@
 # movies
 
-> test for documentolog company
+> Get list of movies by API
 
 ## Build Setup
 
